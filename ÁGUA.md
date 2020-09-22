@@ -9,6 +9,6 @@
     formarem quando 
     jogar o sal> 
     é divertido de olhar, mas não afeta a temperatura em nada.
+    @lufvidal 
     
-    
-    *Adicione sal à agua do ovo cozido. *Assim, se a casca rachar, *o sal solidificará o ovo, 1.selando a abertura.
+    Adicione sal à agua do ovo cozido. Assim, se a casca rachar, o sal solidificará o ovo, selando a abertura.
